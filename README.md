@@ -1,4 +1,4 @@
-# GOSTCOIN wallet for Mobile Phones
+# GOSTCOIN wallet for Mobile Phones, an unofficial version by HypnosisI2P
 
 Project status: work in progress, not released yet.
 
