@@ -1,3 +1,11 @@
+# GOSTCOIN wallet in Flutter
+
+Project status: work in progress, not released yet.
+
+Targets include Android OS
+
+# THE STUFF BELOW IS OBSOLETE AND TO BE EDITED LATER
+
 # Cake Wallet for Mobile and Desktop
 
 ## Open Source Multi-Currency Wallet
