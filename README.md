@@ -1,4 +1,4 @@
-# GOSTCOIN wallet in Flutter
+# GOSTCOIN wallet for Mobile Phones
 
 Project status: work in progress, not released yet.
 
